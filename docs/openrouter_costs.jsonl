@@ -1,0 +1,23 @@
+{"t":0,"model":"openai/gpt-audio-mini","purpose":"initial tts smoke test","cost":0.000372,"id":"gen-1790606355-fXkqo55v21WARVBvOH49"}
+{"t": 1790606410.8258975, "model": "openai/gpt-audio-mini", "purpose": "voice test cedar", "cost": 0.0005118, "id": "gen-1790606409-Eacy3PhF0pFudJCHUgsL"}
+{"t": 1790606412.8904755, "model": "openai/gpt-audio-mini", "purpose": "voice test ash", "cost": 0.0005814, "id": "gen-1790606411-MjMO2NbP03vX1lg6LUIY"}
+{"t": 1790606415.1763601, "model": "openai/gpt-audio-mini", "purpose": "voice test verse", "cost": 0.0006054, "id": "gen-1790606413-zED051sFFhhrCJq4VYA1"}
+{"t": 1790606417.2153232, "model": "openai/gpt-audio-mini", "purpose": "voice test echo", "cost": 0.0005502, "id": "gen-1790606415-bdvy0FTXJDRBUiKFRLLh"}
+{"t": 1790606419.2756195, "model": "openai/gpt-audio-mini", "purpose": "voice test ballad", "cost": 0.0005838, "id": "gen-1790606417-C1zxEmMDvOXdcYoZDPYR"}
+{"t": 1790606422.0714378, "model": "openai/gpt-audio-mini", "purpose": "voice test onyx", "cost": 0.0005214, "id": "gen-1790606419-dpy5nsfezBRnaHbkwyIG"}
+{"t": 1790606433.0383844, "model": "openai/gpt-audio", "purpose": "voice test cedar", "cost": 0.0137585, "id": "gen-1790606430-IFn5WO6QyE79lIofOaaS"}
+{"t": 1790606435.9889348, "model": "openai/gpt-audio", "purpose": "voice test onyx", "cost": 0.0121385, "id": "gen-1790606433-KYeIDXq2zPEJ8lBsIT8J"}
+{"t": 1790606438.88515, "model": "openai/gpt-audio", "purpose": "voice test ash", "cost": 0.0137585, "id": "gen-1790606436-0Llw7EBxZDX2pidcOnGX"}
+{"t": 1790606469.9536893, "model": "google/gemini-3.8-flash", "purpose": "voice casting judge", "cost": 0.0095055, "id": "gen-1790606449-oSVa0uAXHjKycOktBKOZ"}
+{"t": 1790606533.5241299, "model": "openai/gpt-audio", "purpose": "narration take 1", "cost": 0.069849, "id": "gen-1790606521-B6SAzsTl4O4lKyOwQfy0"}
+{"t": 1790606565.7441592, "model": "google/gemini-3.8-flash", "purpose": "narration QA", "cost": 0.00484575, "id": "gen-1790606557-fV94Dw34fquDaJtTEHly"}
+{"t": 1790606615.332818, "model": "google/lyria-3-pro-preview", "purpose": "music build/music/lyria_pro_1.mp3", "cost": 0.08, "id": "gen-1790606594-ruwp1e8s8B1INKl7XedM"}
+{"t": 1790606649.9036355, "model": "google/lyria-3-clip-preview", "purpose": "music build/music/lyria_clip_test.mp3", "cost": 0.04, "id": "gen-1790606641-DFbwgSgYYc16pdIKm3xY"}
+{"t": 1790606678.063643, "model": "google/lyria-3-pro-preview", "purpose": "music build/music/lyria_pro_2.mp3", "cost": 0.08, "id": "gen-1790606655-NHAxFmmU2yJUu2dooFN1"}
+{"t": 1790606703.7451766, "model": "google/gemini-3.8-flash", "purpose": "music QA", "cost": 0.006504, "id": "gen-1790606689-RkYd2hSBI6tTwb2uW0Pj"}
+{"t": 1790609397.0770426, "model": "google/gemini-3.8-flash", "purpose": "video review", "cost": 0.02056875, "id": "gen-1790609351-k1HsQWZmhbKmm6F5Pef8"}
+{"t": 1790609604.7088337, "model": "google/gemini-3.8-flash", "purpose": "mix QA", "cost": 0.00782175, "id": "gen-1790609587-OcSsIZdxVZQs8qXQesUO"}
+{"t": 1790609664.0329323, "model": "google/gemini-3.8-flash", "purpose": "mix QA 2", "cost": 0.00495675, "id": "gen-1790609652-79GkLJTrgC6hr6MrYb1v"}
+{"t": 1790610868.3042562, "model": "google/gemini-3.8-flash", "purpose": "video review", "cost": 0.023604, "id": "gen-1790610827-J02yPrGBOp7Kkpclvux3"}
+{"t": 1790611857.9105678, "model": "google/gemini-3.8-flash", "purpose": "video review", "cost": 0.01598475, "id": "gen-1790611823-YboFA5SU76taXHrf4NL9"}
+{"t": 1790612797.3225293, "model": "google/gemini-3.8-flash", "purpose": "video review", "cost": 0.0168825, "id": "gen-1790612765-AAUmna3KC9SvsO3Lez6N"}
